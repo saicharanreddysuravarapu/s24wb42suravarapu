@@ -3,9 +3,9 @@ Assignment - 10
 
 Class: Lighthouses
 Attributes:
-- name: string
-- location: string
-- yearBuilt: number
+- Name: string
+- Location: string
+- YearBuilt: number
 
 
 
